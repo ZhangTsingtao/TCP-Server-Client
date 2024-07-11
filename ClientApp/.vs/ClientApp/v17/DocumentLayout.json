@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\qz3017\\source\\repos\\ClientApp\\",
+  "WorkspaceRootPath": "C:\\Users\\qz3017\\Documents\\GitHub\\TCP-Server-Client\\ClientApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D3D2C11-0514-4712-AB54-7246A3AA2C29}|ClientApp\\ClientApp.csproj|c:\\users\\qz3017\\source\\repos\\clientapp\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D3D2C11-0514-4712-AB54-7246A3AA2C29}|ClientApp\\ClientApp.csproj|c:\\users\\qz3017\\documents\\github\\tcp-server-client\\clientapp\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D3D2C11-0514-4712-AB54-7246A3AA2C29}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\qz3017\\source\\repos\\ClientApp\\ClientApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\qz3017\\Documents\\GitHub\\TCP-Server-Client\\ClientApp\\ClientApp\\Program.cs",
               "RelativeDocumentMoniker": "ClientApp\\Program.cs",
-              "ToolTip": "C:\\Users\\qz3017\\source\\repos\\ClientApp\\ClientApp\\Program.cs",
+              "ToolTip": "C:\\Users\\qz3017\\Documents\\GitHub\\TCP-Server-Client\\ClientApp\\ClientApp\\Program.cs",
               "RelativeToolTip": "ClientApp\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAnAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T20:01:30.652Z",
+              "WhenOpened": "2024-07-11T21:40:21.023Z",
               "EditorCaption": ""
             }
           ]
