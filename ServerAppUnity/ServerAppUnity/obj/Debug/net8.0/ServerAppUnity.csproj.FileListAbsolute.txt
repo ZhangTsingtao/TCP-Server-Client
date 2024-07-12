@@ -1,0 +1,15 @@
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\bin\Debug\net8.0\ServerAppUnity.exe
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\bin\Debug\net8.0\ServerAppUnity.deps.json
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\bin\Debug\net8.0\ServerAppUnity.runtimeconfig.json
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\bin\Debug\net8.0\ServerAppUnity.dll
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\bin\Debug\net8.0\ServerAppUnity.pdb
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.AssemblyInfoInputs.cache
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.AssemblyInfo.cs
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.csproj.CoreCompileInputs.cache
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.sourcelink.json
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.dll
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\refint\ServerAppUnity.dll
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.pdb
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.genruntimeconfig.cache
+C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ref\ServerAppUnity.dll
