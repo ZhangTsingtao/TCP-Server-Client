@@ -13,3 +13,18 @@ C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity
 C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.pdb
 C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.genruntimeconfig.cache
 C:\Users\qz3017\Documents\GitHub\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ref\ServerAppUnity.dll
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\bin\Debug\net8.0\ServerAppUnity.exe
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\bin\Debug\net8.0\ServerAppUnity.deps.json
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\bin\Debug\net8.0\ServerAppUnity.runtimeconfig.json
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\bin\Debug\net8.0\ServerAppUnity.dll
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\bin\Debug\net8.0\ServerAppUnity.pdb
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.AssemblyInfoInputs.cache
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.AssemblyInfo.cs
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.csproj.CoreCompileInputs.cache
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.sourcelink.json
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.dll
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\refint\ServerAppUnity.dll
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.pdb
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ServerAppUnity.genruntimeconfig.cache
+D:\Document\Github Projects\TCP-Server-Client\ServerAppUnity\ServerAppUnity\obj\Debug\net8.0\ref\ServerAppUnity.dll

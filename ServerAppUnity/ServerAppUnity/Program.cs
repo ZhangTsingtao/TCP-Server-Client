@@ -11,20 +11,21 @@ class SocketServer
         server.Start();
 
         Console.WriteLine("Server started...");
-        TcpClient client = server.AcceptTcpClient();
-        NetworkStream stream = client.GetStream();
-
-        byte[] buffer = new byte[1024];
-        int bytesRead;
-
-        while ((bytesRead = stream.Read(buffer, 0, buffer.Length)) != 0)
+        
+        while (true)
         {
-            string message = Encoding.ASCII.GetString(buffer, 0, bytesRead);
-            Console.WriteLine("Received: " + message);
-        }
+            TcpClient client = server.AcceptTcpClient();
+            NetworkStream stream = client.GetStream();
+            Console.WriteLine("Client connected!");
 
-        stream.Close();
-        client.Close();
-        server.Stop();
+            byte[] buffer = new byte[1024];
+            int bytesRead;
+
+            bytesRead = stream.Read(buffer, 0, buffer.Length);
+            if (bytesRead < 2) continue;
+
+            string message = Encoding.ASCII.GetString(buffer, 0, bytesRead);
+            Console.WriteLine(message);
+        }
     }
 }

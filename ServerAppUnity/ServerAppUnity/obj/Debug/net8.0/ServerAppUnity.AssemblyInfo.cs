@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServerAppUnity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d18cddfd15e5e1932e5fa243ef39aa8e1817993")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a40c7d66ee5df7cc042c417d8bba3812b62913d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServerAppUnity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServerAppUnity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
